@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj": {}
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj": {
+    "C:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj",
         "projectName": "FriendLetter",
-        "projectPath": "c:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj",
+        "projectPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\obj\\",
+        "outputPath": "C:\\Users\\Steven\\Desktop\\epi\\c#\\FriendLetter.Solution\\FriendLetter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
