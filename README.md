@@ -16,8 +16,8 @@ _The purpose of this project is to create a C# web application using the .NET Co
 2. To download the project directory to your desktop enter the following commands:
 ```
 cd Desktop
-git clone https://github.com/BrevinCronk98/C-Sharp-CarDealership
-cd C-Sharp-CarDealerShip(or the file name you created for the main directory of the download)
+git clone https://github.com/BrevinCronk98/C-Sharp-LetterToFriend
+cd C-Sharp-LetterToFriend(or the file name you created for the main directory of the download)
 ```
 3. To view the downloaded files, open them in a text editor or IDE of your choice.
 * if you have VSCode for example, when your terminal is within the main project directory you can open all of the files with the command:
